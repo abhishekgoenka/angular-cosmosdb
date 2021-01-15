@@ -1,6 +1,7 @@
 # Angular Cosmos DB
 
-by [John Papa](http://twitter.com/john_papa)
+by [
+Papa](http://twitter.com/john_papa)
 
 You can [watch me build the app as part of my series here](https://johnpapa.net/angular-cosmosdb-1/)
 
@@ -33,7 +34,7 @@ docker run -d -p 3000:80 $dockerImage
 1. Clone this repository
 
     ```bash
-    git clone https://github.com/johnpapa/angular-cosmosdb.git
+    git clone https://github.com/abhishekgoenka/angular-cosmosdb.git
     cd angular-cosmosdb
     ```
 
@@ -78,4 +79,4 @@ docker run -d -p 3000:80 $dockerImage
 
 ## Problems or Suggestions
 
-[Open an issue here](https://github.com/johnpapa/angular-cosmos/issues)
+[Open an issue here](https://github.com/abhishekgoenka/angular-cosmos/issues)
